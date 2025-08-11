@@ -17,7 +17,7 @@
   - 🧠 **Seizure Detection with EEG Data**
   - ⚽ **Football Player Statistics Analysis**
   - 🏢 **School System Automation with MySQL**
-- 📫 Reach me at: **[Your Email Here]**  
+- 📫 Reach me at: **[alihaiderats2004@gmail.com]**  
 
 ---
 
@@ -42,8 +42,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihaider-ml&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaider-ml&layout=compact&theme=radical)  
 
 ---
 
