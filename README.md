@@ -1,8 +1,9 @@
-# Hi there 👋, I'm Ali Haider  
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&width=435&lines=Hi+there+👋,+I'm+Ali+Haider;Data+Science+Student;ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 🎓 **Data Science Student | ML/AI Enthusiast | Problem Solver**  
 💻 Passionate about building intelligent systems and automating workflows  
-🌱 Currently exploring Deep Learning, Computer Vision, and AI deployment  
+🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **AI Deployment**  
 
 ---
 
@@ -12,19 +13,24 @@
 - 🛠 Skilled in **Python, R, MySQL, TensorFlow, Scikit-learn, Pandas, NumPy**  
 - 🌍 Interested in **AI-powered applications** and **real-world automation**  
 - 🏆 Worked on projects like:
-  - **Smart Campus Automation System**
-  - **Seizure Detection with EEG Data**
-  - **Football Player Statistics Analysis**
-  - **School System Automation with MySQL**
+  - 🏫 **Smart Campus Automation System**
+  - 🧠 **Seizure Detection with EEG Data**
+  - ⚽ **Football Player Statistics Analysis**
+  - 🏢 **School System Automation with MySQL**
 - 📫 Reach me at: **[Your Email Here]**  
 
 ---
 
 ## 🛠 Tech Stack  
-
-**Languages & Tools:**  
-`Python` `R` `MySQL` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`  
-`Matplotlib` `Seaborn` `Plotly` `Git` `Power BI`  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ---
 
@@ -35,11 +41,19 @@
 
 ---
 
+## 📊 GitHub Stats  
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/your-link)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-link)  
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)  
 
 ⭐ *“Turning data into decisions, and ideas into reality.”*  
