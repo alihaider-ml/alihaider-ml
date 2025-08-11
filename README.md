@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/alihaider-ml/alihaider-ml/blob/eb0da16ba4bcb4608ede72e5234c5297644d630f/ALI%20HAIDER.png" alt="Ali Haider Banner" width="100%">
+</p>
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&width=435&lines=Hi+THERE+👋,+I'M+ALI+HAIDER;Data+Science+Student;ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
