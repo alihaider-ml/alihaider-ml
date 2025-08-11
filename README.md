@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&width=435&lines=Hi+there+👋,+I'm+Ali+Haider;Data+Science+Student;ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&width=435&lines=Hi+THERE+👋,+I'M+ALI+HAIDER;Data+Science+Student;ML+%7C+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 🎓 **Data Science Student | ML/AI Enthusiast | Problem Solver**  
 💻 Passionate about building intelligent systems and automating workflows  
