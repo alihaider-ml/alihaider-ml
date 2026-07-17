@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me  
-- 📚 7th Semester Bachelor's in **Data Science**  
+- 📚 8th Semester Bachelor's in **Data Science**  
 - 🔍 Experience in **Machine Learning**, **Data Analysis**, and **Database Design**  
 - 🛠 Skilled in **Python, R, MySQL, TensorFlow, Scikit-learn, Pandas, NumPy**  
 - 🌍 Interested in **AI-powered applications** and **real-world automation**  
